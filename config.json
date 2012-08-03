@@ -1,6 +1,5 @@
 {
     "config_version": "3", 
-    "uuid": "a7d0f8acdbf511e1889e12313d1adcbe", 
     "author": "Trigger", 
     "modules": {
         "geolocation": true, 
